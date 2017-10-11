@@ -62,3 +62,7 @@ for i in range(len(the_results.results)):
 
 print personaje.get_thumbnail().path
 
+
+#hola
+#hola
+
